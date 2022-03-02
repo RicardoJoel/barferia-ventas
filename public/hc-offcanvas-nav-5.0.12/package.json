@@ -1,0 +1,48 @@
+{
+  "name": "hc-offcanvas-nav",
+  "version": "5.0.12",
+  "description": "JavaScript library for creating off-canvas multi-level navigations",
+  "homepage": "https://somewebmedia.github.io/hc-offcanvas-nav/",
+  "main": "dist/hc-offcanvas-nav.js",
+  "sass": "src/scss/hc-offcanvas-nav.scss",
+  "author": {
+    "name": "Some Web Media",
+    "url": "https://github.com/somewebmedia"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somewebmedia/hc-offcanvas-nav.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-bump": "^3.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-open": "^3.0.1",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "uglify-save-license": "^0.4.1",
+    "yargs": "^15.4.1"
+  },
+  "keywords": [
+    "nav",
+    "navigation",
+    "menu",
+    "offcanvas",
+    "mobile",
+    "mobile-nav",
+    "hamburger",
+    "hamburger-menu",
+    "swipe-menu",
+    "jquery",
+    "plugin",
+    "jquery-plugin"
+  ]
+}
